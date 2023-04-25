@@ -1,5 +1,5 @@
 # cancer-detection
-## requirements
+## Requirements
 To run this, you'll need to have Python 3 and the following Python packages installed:
 
 1. scikit-learn
